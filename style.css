@@ -1,8 +1,27 @@
-/* table {
+h2 {
+    font-size: 30px;
+}
+body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:brown;
+}
+
+a {
+    text-decoration: none;
+    color:brown;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
     border-collapse: collapse;
 }
+
+
 th, td {
     padding: 10px;
-} */
+} 
 
 @import url(w3.css);
